@@ -1,4 +1,4 @@
-# Setup Anaconda, Jupyter Notebook, Virtual Environments (conda) for Ubuntu 19.10
+# Setup Anaconda, Jupyter Notebook, Virtual Environments (conda) for Ubuntu 18.04 and above
 Install Anaconda from the anaconda website.<br><br>
 During the installation the installer prompts “Do you wish the installer to initialize Anaconda3 by running conda init?”. Check yes at this prompt.<br><br>
 Check installation by running ``anaconda-navigator``. 
